@@ -1,1 +1,1 @@
-# pythontraining2
+# long road to auto-qa
